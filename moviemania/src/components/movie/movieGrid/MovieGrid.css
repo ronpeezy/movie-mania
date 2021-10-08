@@ -1,0 +1,5 @@
+@media screen and (max-width: 767px) {
+    .grid_item__centerMobile {
+        margin: 0 auto;
+    }
+}
